@@ -1,0 +1,8 @@
+{
+  "name": "Overview Dash Hide",
+  "description": "Hide dash to dock in activities overview",
+  "uuid": "overview-dash-hide@rokenz05.github.com",
+  "shell-version": [
+    "42"
+  ]
+}
